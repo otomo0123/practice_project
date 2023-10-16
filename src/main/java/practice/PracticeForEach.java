@@ -11,7 +11,6 @@ public class PracticeForEach {
 		for (String name : employeeNames) {
 			System.out.println(name);
 		}
-		;
 
 	}
 }
