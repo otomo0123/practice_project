@@ -7,7 +7,7 @@ public class PracticeFor {
 		int answer = 0;
 		
 		for (int i = 1; i <= 100; i++) {
-			answer = answer + i;
+			answer += i;
 			
 		}
 		System.out.println(answer);
